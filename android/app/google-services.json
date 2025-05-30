@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986066241612",
+    "project_id": "flutter-beginner-db515",
+    "storage_bucket": "flutter-beginner-db515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986066241612:android:08c396cb9b9ac85a120ce9",
+        "android_client_info": {
+          "package_name": "firebase_options.dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZM8qrC8rLOTRhKC2yAlUVy7uq_-XYIxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
